@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-GlassStainedBumpDistort.shader">
+    <Files>
+      <File FileName="Assets/MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Models/Transparent Specular.shader" Line="1" Column="1" />
+      <File FileName="Temp/Compiled-Transparent Specular.shader" Line="1" Column="1" />
+      <File FileName="Temp/Compiled-GlassStainedBumpDistort.shader" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
